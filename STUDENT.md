@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: AnhNgo1702
 - Repo bài nộp (URL): https://github.com/AnhNgo1702/K5-L23-Day08-NgoTriAnh-2A202604053-AI-Assisted-Labeling
-- Commit chốt bài (hash):
+- Commit chốt bài (hash): Final submission
 - Máy: Windows 11, không có GPU (chạy CPU)
 - CVAT (Docker): v2.74.1
 
